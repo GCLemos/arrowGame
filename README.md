@@ -6,4 +6,4 @@ In order to use this processing code, first you need to configure your arduino.
 You can find the code that I used in the main branch.
 It uses the .ino extension.
 
-### The USB port may vary, mine was the second port, so the 1 index, and has the following name: /dev/ttyUSB0.
+### The USB port may vary, mine was the second port, so the 1 index, and had the following name: <br> /dev/ttyUSB0.
